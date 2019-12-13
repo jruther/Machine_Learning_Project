@@ -1,2 +1,2 @@
 # Machine_Learning_Project
-Repository for project submission in Machine Learning Q4 2019 
+This repository contains an assessment of the 'Boston House Price' dataset for the 4th semester 5 credit module - Machine Learning & Statistics, part of the course entitled Higher Diploma in Science - Computing (Data Analytics), submitted to Dr. Ian McLoughlin, lecturer and Programme Administrator at GMIT. The analyses contained with this repository are as per the assignment direction and are answered in the order in which they were asked. A number of sources of reference material was used and reviewed in this analysis, and a list of referenced sites is found at the end of the page.
